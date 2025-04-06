@@ -117,3 +117,4 @@ Les performances ont été évaluées via :
 - Des scores de clustering (ARI, NMI)
 
 ---
+Ce projet a été réalisé par : Donia Tekaya/ Mohamed Elyes Maalel / Mohamed Aziz Marouani
