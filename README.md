@@ -86,12 +86,6 @@ Tests automatisés avec **pytest** pour valider :
 - Ajout automatique d’un champ **`group`** via **détection de communautés (Louvain)**.
 - Clustering `KMeans` appliqué aux embeddings.
 
-### Évaluation du clustering :
-
-- ARI (Adjusted Rand Index) : `0.2187`
-- NMI (Normalized Mutual Information) : `0.4033`
-
-Ces scores montrent une **structure partiellement capturée** par les embeddings.
 
 ---
 
